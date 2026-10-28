@@ -6,7 +6,7 @@ Este repositorio cuenta con el juego **Paint** descargado de `freegames` mediant
 
 ## Cambios
 
-Se realizaron 3 cambios a través de 3 commits distintos**:
+Se realizaron 4 cambios a través de 4 commits distintos**:
 
 1. Agregar un color
 2. Agregar la función círculo
